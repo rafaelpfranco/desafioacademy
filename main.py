@@ -11,7 +11,7 @@
 # iguais escolhemos o primeiro menor, para escolher o terceiro indivíduo
 # verificamos o peso do primeiro aluno com todos os outros mais o peso
 # do segundo alunos com todos os outros, o que significa que estamos
-# escolhendo a melhor escolha pensando em quem já está no grupo e isso
+# optando pela a melhor escolha pensando em quem já está no grupo e isso
 # é feito até completarmos o grupo.
 
 from tabulate import tabulate as tb
